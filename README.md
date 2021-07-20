@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Posts Application App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Blog Application with the below features :
+> shows list of blogs
+> on Click of any blog redirects to that blog details page
+> On click of user in blog redirects to user details page
+> added search functionality to search for the blog based on title
 
 ## Available Scripts
 
