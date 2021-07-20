@@ -1,0 +1,9 @@
+.postListHeader {
+  margin: 10px 10px !important;
+  color: #0000ff !important;
+}
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

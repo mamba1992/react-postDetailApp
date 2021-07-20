@@ -1,0 +1,17 @@
+.postDetailContainer {
+  margin-top: 10px !important;
+}
+.commentActions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.commentHeader {
+  margin: 10px 0;
+}
+.commentBody {
+  margin: 10px 0;
+}
+.postDetailSegment {
+  background: rgb(255, 182, 243) !important;
+}
