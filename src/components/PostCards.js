@@ -10,7 +10,7 @@ const PostCards = ({posts}) => {
         </Segment>
     }
     return (
-        <Card.Group itemsPerRow={5} style={{margin:'0'}}>
+        <Card.Group itemsPerRow={5} stackable={true} style={{margin:'0'}}>
         {posts && _.map(posts, post => {
             return <PostCard key={post.id} post={post} />
         })}
